@@ -9,8 +9,8 @@ This project is a refactor of the great [client-document-monitoring](http://http
 
 ## Installing
 
-    * Download this repository as zip file [clicking here](https://github.com/jnettome/wp-client-documents/archive/master.zip)
-    * Upload the extracted folder to wp-content/plugins of your WP instance
+* Download this repository as zip file [clicking here](https://github.com/jnettome/wp-client-documents/archive/master.zip)
+* Upload the extracted folder to wp-content/plugins of your WP instance
 
 
 ### And what if I found a bug?
@@ -19,9 +19,9 @@ Please report using [issues](https://github.com/jnettome/wp-client-documents/iss
 
 ### Contributing
 
-    * Fork this repository
-    * Open a issue and a branch to your contribution
-    * Send a pull request after work is done
+* Fork this repository
+* Open a issue and a branch to your contribution
+* Send a pull request after work is done
 
 ### Copyright
 
