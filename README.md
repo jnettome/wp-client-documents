@@ -1,10 +1,28 @@
-client-document-monitoring
-==========================
+# WP Client Documents
 
-Repo for client document monitoring wordpress plugin, http://wordpress.org/extend/plugins/user-and-document-monitoring/
+A Wordpress plugin to easily manage files between users into Wordpress Administration.
 
-How to Install
-==============
-1) Download zip from, https://github.com/hiteshjoshi/client-document-monitoring/archive/master.zip
+You can upload files and make then acessible just for the clients that an administrator defines.
 
-2) Upload it as a regular wordpress plugin. Simple :)
+This project is a refactor of the great [client-document-monitoring](http://https://github.com/hiteshjoshi/client-document-monitoring).
+
+
+## Installing
+
+    * Download this repository as zip file [clicking here](https://github.com/jnettome/wp-client-documents/archive/master.zip)
+    * Upload the extracted folder to wp-content/plugins of your WP instance
+
+
+### And what if I found a bug?
+
+Please report using [issues](https://github.com/jnettome/wp-client-documents/issues)
+
+### Contributing
+
+    * Fork this repository
+    * Open a issue and a branch to your contribution
+    * Send a pull request after work is done
+
+### Copyright
+
+__WIP__
