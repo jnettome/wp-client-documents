@@ -25,4 +25,4 @@ Please report using [issues](https://github.com/jnettome/wp-client-documents/iss
 
 ### Copyright
 
-__WIP__
+GPL-2.0+
