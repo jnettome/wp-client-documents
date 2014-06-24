@@ -23,6 +23,4 @@ Please report using [issues](https://github.com/jnettome/wp-client-documents/iss
 * Open a issue and a branch to your contribution
 * Send a pull request after work is done
 
-### Copyright
-
-GPL-2.0+
+### [Copyright](https://raw.githubusercontent.com/jnettome/wp-client-documents/master/LICENSE)
