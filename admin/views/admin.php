@@ -5,17 +5,17 @@
  * This includes the header, options, and other information that should provide
  * The User Interface to the end user.
  *
- * @package   Plugin_Name
- * @author    Your Name <email@example.com>
+ * @package   WP_Client_Documents_Admin
+ * @author    João Netto <hi@joaonetto.me>
  * @license   GPL-2.0+
  * @link      http://example.com
- * @copyright 2014 Your Name or Company Name
+ * @copyright 2014 spreesso.ml
  */
 ?>
 
 <div class="wrap">
 
-	<h2><?php echo esc_html( get_admin_page_title() ); ?></h2>
+	<h2>Gerenciador de Arquivos</h2>
 
 	<!-- @TODO: Provide markup for your options page here. -->
 

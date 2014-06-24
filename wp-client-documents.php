@@ -12,7 +12,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       WP Client Documents
- * Plugin URI:        @TODO
+ * Plugin URI:        https://github.com/jnettome/wp-client-documents
  * Description:       A Wordpress plugin to easily manage files between users into Wordpress Administration.
  * Version:           1.0.0
  * Author:            João Netto
